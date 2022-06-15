@@ -1,4 +1,4 @@
-import { SignUpController } from '@/presentation/controllers/signup';
+import { SignUpController } from '@/presentation/controllers/signup'
 import { MissingParamError, InvalidParamError, ServerError } from '@/presentation/errors'
 import { EmailValidator } from '@/presentation/protocols/email-validator'
 
